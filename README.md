@@ -24,6 +24,16 @@ HELPING RESOURCE FOR FORECAST CALCULATE
 
 ----
 
+#HINT OF CALCULATE
+**Using productCol.Ide.DhEmi.Date and productCol.Complemento.ValorTotal datas
+* For example;
+* As productCol.Ide.DhEmi.Date
+* One of {} -> ide -> dhEmi -> "$date": "2016-01-05T12:01:54.000Z"
+* As productCol.Complemento.ValorTotal
+* One of {} -> complemento -> valorTotal -> "24.9"
+
+----
+
 **Identify a pattern on any set of fields that can help predict how much a customer will spend.
 * Total BUFFET Product
 * As Money: 75523.52 - As KG: 1101.014
