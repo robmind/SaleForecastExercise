@@ -25,7 +25,7 @@ HELPING RESOURCE FOR FORECAST CALCULATE
 ----
 
 #HINT OF CALCULATE
-**Using productCol.Ide.DhEmi.Date and productCol.Complemento.ValorTotal datas
+* Using productCol.Ide.DhEmi.Date and productCol.Complemento.ValorTotal datas
 * For example;
 * As productCol.Ide.DhEmi.Date
 * One of {} -> ide -> dhEmi -> "$date": "2016-01-05T12:01:54.000Z"
