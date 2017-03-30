@@ -5,7 +5,7 @@
         },
         "dets": [
             {
-                "nItem": "1",
+                "nItem": "1", 
                 "prod": {
                     "indTot": "1",
                     "qCom": 1,
