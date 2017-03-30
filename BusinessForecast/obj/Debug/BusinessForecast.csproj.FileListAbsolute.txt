@@ -1,0 +1,10 @@
+D:\Project\WebDeneme\Totvs\TOTVSLabsProjectFolder\BusinessForecast\bin\Debug\BusinessForecast.dll.config
+D:\Project\WebDeneme\Totvs\TOTVSLabsProjectFolder\BusinessForecast\bin\Debug\BusinessForecast.dll
+D:\Project\WebDeneme\Totvs\TOTVSLabsProjectFolder\BusinessForecast\bin\Debug\BusinessForecast.pdb
+D:\Project\WebDeneme\Totvs\TOTVSLabsProjectFolder\BusinessForecast\obj\Debug\BusinessForecast.dll
+D:\Project\WebDeneme\Totvs\TOTVSLabsProjectFolder\BusinessForecast\obj\Debug\BusinessForecast.pdb
+D:\Project\WebDeneme\Totvs\TOTVSLabSalesProject\BusinessForecast\bin\Debug\BusinessForecast.dll.config
+D:\Project\WebDeneme\Totvs\TOTVSLabSalesProject\BusinessForecast\bin\Debug\BusinessForecast.dll
+D:\Project\WebDeneme\Totvs\TOTVSLabSalesProject\BusinessForecast\bin\Debug\BusinessForecast.pdb
+D:\Project\WebDeneme\Totvs\TOTVSLabSalesProject\BusinessForecast\obj\Debug\BusinessForecast.dll
+D:\Project\WebDeneme\Totvs\TOTVSLabSalesProject\BusinessForecast\obj\Debug\BusinessForecast.pdb
