@@ -15,12 +15,12 @@ HELPING RESOURCE FOR FORECAST CALCULATE
 
 #CLASS HIERACY
 * Product --> Complemento(Objects)
-** --> Det(Objects)
-** --> Emit(Objects, EnderEmit() -> Objects )
-** --> Ide (Objects, DhEmi() -> Objects)
-** --> InfAdic (Objects)
-** --> Total (Objects, IcmsTot () -> Objects)
-** --> VersaoDocumento
+* --> Det(Objects)
+* --> Emit(Objects, EnderEmit() -> Objects )
+* --> Ide (Objects, DhEmi() -> Objects)
+* --> InfAdic (Objects)
+* --> Total (Objects, IcmsTot () -> Objects)
+* --> VersaoDocumento
 
 ----
 
